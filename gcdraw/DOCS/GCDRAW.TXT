@@ -1,0 +1,101 @@
+
+
+
+
+By: Franco Gaetan
+
+
+GCDraw Version 1
+
+
+Welcome t GCDraw version 1. I'm very happy you decided to download it and give it a try.
+GCDraw was written for game development for an object and background editor. I started this
+project in 1995 and I finally finished it in late 1996. Learning how to do things and making them
+always better was an ongoing problem.
+
+It was originally written on Qbasic to get the logic down and then it required speed so off to write
+it in C. This 16 pixel version was created as a need, right now I am porting it to a 32 pixel
+version as we speak. I hope you like it and its useful for you as well as have some fun with it.
+
+
+Getting Started
+
+When you start GCDRAW.EXE your basic introduction screen appears and all that jazz. Make
+sure you have a Mouse driver loaded and you should be fine. It doesn't require much memory
+since it only allocates 256 bytes for each object and a total of 100 objects. 
+
+Loading your first SAMPLE1 program.
+
+
+After you have the program loaded press the "L" key to prompt for loading your first sample.
+Enter the name "SAMPLE1" and press Enter. You should see the Image appear on the grid as
+well as to the right of it. This is you main view. Since I found that drawing freehand required a
+lot of steady hand movement I decided to make the grid and use a snap set-up. 
+
+Picking up colours is done with the Right mouse button and drawing them with the left. This
+saves you time since you don't need to go back and pick the colours again once you start
+drawing. At the top right you will see 3 rows of letters, these represent SP=Sprite, RW=Row and
+FG which is a flag to see if any data exists.  While in this mode you can also press  V' for View
+to see all the objects. Use the numeric key pad Plus(+) and Minus (-) to move left and right
+through the objects and Page Up or Page Down to move vertically through them.
+
+
+
+
+
+
+
+
+Animation
+
+Animation is quite easy to do, I made it that way because I wanted to see my results immediately.
+Press  L' again and load file  SAMPLE2' when you have it loaded press  V' to see all the objects
+I created to make sure they are there. Press any key to return to the Draw screen and move
+down(Page Down) to Row 3 Sprite 6 (+ key). Now you should be on a torch of some sort. If you
+press the Plus key you will see 2 other torches slightly different. Take notes of the SP or sprite
+number and notice that the start of the torch starts at 6 and ends at 8. Its a small animation so lets
+see how it works.
+
+Press the letter  A' and it will prompt you for  Start' enter the number 6 since that where it starts
+and press ENTER. Now it asks for destination and enter the number 8 and press Enter. Now It
+will ask you for speed. Speed is determined by you 1 - is fast and 8 is slow so pick 2 and press
+Enter. Now you should see the smaller shape to the right animating, ever so crudely but hey your
+probably a better drawer than me. Press any key to start the animation. There was no need to
+animate the object in the grid since it wasn't the actual size.
+
+
+
+Copying 
+
+There are 2 different types of copy within GCDraw. One in single object to single object
+anywhere within 10 x 10 and the other copies a whole row. The only important thing to know is
+that a copy of a row also works between files. So if you have created a row of animations in 1 file
+and you want all of those in another file you just use F5 once on the Source file, then load the
+destination file and press F5 again and pick the row you want them copied to. That's it.
+
+
+Layout Screen
+
+This is not covered in the Shareware version. It basically in a layout area for making screens for
+games. If you load SAMPLE1 or SAMPLE2 and press F8 you'll see what I use it for. You need
+to get the rest of the file structures in the full version to know and how to read them.
+
+
+More Docs In the Full Version...................
+Custom Text Scroller also come with full version.
+
+Franco Gaetan
+E-Mail: franco@globalserve.net
+URL: http://www.globalserve.net/~franco
+
+
+
+Mail Address:
+
+Gaetan Computers
+B.O. Box 93140
+Burlington, Ontaio
+Canada
+L7M 3Z0
+
+
