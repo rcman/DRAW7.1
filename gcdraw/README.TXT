@@ -36,18 +36,9 @@ as ALL Samples and DOCS and accompanied.
 Contacting The Author
 
 Franco Gaetan
-E-Mail: franco@globalserve.net
-URL: http://www.globalserve.net/~franco
+E-Mail: franco.gaetan@gmail.com 
 
 
-
-Mail Address:
-
-Gaetan Computers
-B.O. Box 93140
-Burlington, Ontaio
-Canada
-L7M 3Z0
 
 
 Addendum: I would like to hear from you and tell me what you think. If you
