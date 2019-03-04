@@ -11,3 +11,6 @@ Check it out
 
 Thanks
 RC
+
+Update: I installed a DOS Virtual machine and moved these files over. Because they came from CD you need to change the permissions on
+them by running attrib -r to remove read only.
